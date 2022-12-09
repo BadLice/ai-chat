@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/ai-chat/static/js/main.56ce014d.js",
+    "main.js": "/ai-chat/static/js/main.cf4cecec.js",
     "static/js/787.93a71698.chunk.js": "/ai-chat/static/js/787.93a71698.chunk.js",
     "index.html": "/ai-chat/index.html",
-    "main.56ce014d.js.map": "/ai-chat/static/js/main.56ce014d.js.map",
+    "main.cf4cecec.js.map": "/ai-chat/static/js/main.cf4cecec.js.map",
     "787.93a71698.chunk.js.map": "/ai-chat/static/js/787.93a71698.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.56ce014d.js"
+    "static/js/main.cf4cecec.js"
   ]
 }
