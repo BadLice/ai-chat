@@ -1,4 +1,5 @@
 # Live demo: https://badlice.github.io/ai-chat/
+AI chatbot with davinci03 OpenAI API
 
 # Getting Started with Create React App
 
